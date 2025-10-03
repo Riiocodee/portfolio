@@ -1,6 +1,6 @@
 # Riya Singh Bhadoria | Portfolio
 
-Welcome to my personal portfolio website repository! ✨
+Welcome to my world !
 
 ## 🚀 About Me
 
