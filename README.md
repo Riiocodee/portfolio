@@ -31,7 +31,7 @@ My learning is driven by curiosity and the desire to build impactful technology.
 ---
 
 ## 🎓 Certifications
-
+- Generative AI - Infosys
 - C Programming Certification (Santa Cruz University, California)
 - C++ Programming Certification (Santa Cruz University, California)
 
@@ -42,13 +42,6 @@ My learning is driven by curiosity and the desire to build impactful technology.
 - *Email:* [jr.mpriya225@gmail.com](mailto:jr.mpriya225@gmail.com)
 - *LinkedIn:* [Riya Singh Bhadoria](https://www.linkedin.com/in/riya-singh-bhadoria)
 - *GitHub:* [Riiocodee](https://github.com/Riiocodee)
-
----
-
-## 🔗 Live Website
-
-[Portfolio Live Link](https://your-deployment-link.com) 
-[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-Visit-blue)](https://riiocodee.github.io/portfolio/)
 
 ---
 
